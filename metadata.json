@@ -1,0 +1,20 @@
+{
+  "name": "NSPL Service Report",
+  "short_name": "NSPL Report",
+  "description": "Professional electrical panel service reporting tool for NSPL engineers.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#004a99",
+  "background_color": "#f5f5f5",
+  "icons": [
+    {
+      "src": "https://www.neptuneindia.com/wp-content/themes/neptune/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
