@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# NSPL Site Intervention Report App
 
-This contains everything you need to run your app locally.
+![NSPL Logo](https://www.neptuneindia.com/wp-content/themes/neptune/images/logo.png)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1VeUa2NhGmrJIfukey4uf9Y482oKwsLVy
+A professional React-based web application designed for Neptune Systems Pvt. Ltd. service engineers to generate, sign, and export electrical panel service reports directly from site visits.
 
-## Run Locally
+## Features
+- 📱 **Mobile Optimized**: Designed for field use.
+- 📸 **Direct Camera Access**: Take site evidence photos instantly.
+- 📑 **PDF Export**: Generate high-quality reports with branding.
+- ✉️ **Email Integration**: Send reports to clients immediately.
+- 💾 **Offline Ready**: Metadata configured for PWA installation.
 
-**Prerequisites:**  Node.js
+## How to use
+1. Open the [Live App URL](https://YOUR_USERNAME.github.io/nspl-service-report).
+2. Fill in the Site Intervention details.
+3. Log hardware inventory (PLC, HMI, MFM, etc.).
+4. Capture site photos.
+5. Save as PDF or Print for physical signing.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+© 2025 Neptune Systems Pvt. Ltd.
